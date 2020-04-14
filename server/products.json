@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "sku": "A1011",
+      "title": "Huawei P40 Pro",
+      "description": "Huawei",
+      "availableSizes": ["128GB", "512GB"],
+      "style": "Black",
+      "price": 310.0,
+      "installments": 9,
+      "currencyId": "AZN",
+      "currencyFormat": "AZN",
+      "isFreeShipping": true
+    },
+    {
+      "id": 12,
+      "sku": "A1012",
+      "title": "Samsung Galaxy S20",
+      "description": "Samsung",
+      "availableSizes": ["512GB"],
+      "style": "Cloud Blue",
+      "price": 225.0,
+      "installments": 5,
+      "currencyId": "AZN",
+      "currencyFormat": "AZN",
+      "isFreeShipping": false
+    },
+    {
+      "id": 13,
+      "sku": "A1013",
+      "title": "iPhone 8 with FaceTime",
+      "description": "Apple",
+      "availableSizes": ["256GB", "64GB"],
+      "style": "Silver",
+      "price": 147.0,
+      "installments": 3,
+      "currencyId": "AZN",
+      "currencyFormat": "AZN",
+      "isFreeShipping": true
+    },
+  ]
+}
